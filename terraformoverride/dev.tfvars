@@ -1,0 +1,2 @@
+sku = "Standard"
+env = "dev"
